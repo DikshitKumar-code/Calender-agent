@@ -1,0 +1,13 @@
+langchain 
+langchain-google-community[calendar] 
+google-api-python-client 
+google-auth
+python-dotenv
+langchain-together
+langgraph
+dateparser
+fastapi
+uvicorn
+streamlit
+requests
+pydantic
