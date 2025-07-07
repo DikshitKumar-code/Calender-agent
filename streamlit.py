@@ -4,7 +4,7 @@ import requests
 st.set_page_config(page_title="Calendar AI Assistant", page_icon="📅")
 st.title("📅 AI Calendar Booking Assistant")
 
-API_URL = "http://localhost:8000/invoke"
+API_URL = "http://localhost:8501/invoke"
 
 # Initialize chat history
 if "chat_history" not in st.session_state:
