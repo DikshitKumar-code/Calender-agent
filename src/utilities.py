@@ -8,7 +8,7 @@ from typing import Any, Dict, List, Optional, Type
 
 
 #Path of service account JSON key
-SERVICE_ACCOUNT_FILE = "service-account.json"
+SERVICE_ACCOUNT_FILE = "/etc/secrets/service-account.json"
 
 #scope of calender access
 SCOPES = ["https://www.googleapis.com/auth/calendar"]
